@@ -6,3 +6,4 @@ lightgbm,xgboost,nbsvm
 textcnn,textrnn,rcnn,hierarchical cnn
 ## 待实现
 hierarchical rnn, attention+cnn,attention+rnn,transformer(self attention)
+stacking
